@@ -1,2 +1,2 @@
-# speech_to_text_vertex_ai
-Simple transformer from speech to text using google
+# Speech to Text
+The idea is simple: send an audio track and get the transcript back.
